@@ -12,6 +12,7 @@ require("local-time").start()
 window.Rails = Rails
 
 import 'bootstrap'
+import "../stylesheets/application"
 
 document.addEventListener("turbolinks:load", () => {
   var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
