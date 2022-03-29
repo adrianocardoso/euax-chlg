@@ -1,7 +1,7 @@
 # README
 
-Esse projeto foi concebido com a idéia de criar um organizador de tarefas, a proposta era construir uma aplicação web que simulava algumas funcionalidades básicas do ARTIA, um dos produtos do Grupo Euax.
-Para tanto eu segui uma linha que se aproximava do Trello para construir o organizador de tarefas. Devido a problemas com o framework VueJS escolhido anteriormente, optei por fazer tanto o front quanto o back em Ruby/Rails
+Esse projeto é um esboço para a idéia de criar um organizador de tarefas, a proposta era construir uma aplicação web que simulava algumas funcionalidades básicas do ARTIA, um dos produtos do Grupo Euax.
+Foi seguida uma linha que se aproximava do Trello para construir o organizador de tarefas. Devido a problemas de compatibilidade com o framework VueJS sugerido, foi optado por fazer a aplicação em Ruby on Rails puro
 
 
 O programa EuaxChlg basicamente te permite criar projetos e tarefas associadas a um usuário. Para utilizar baste se registrar e clicar no avatar para aparecer o menu. Clicando em projetos você é direcionado para:
